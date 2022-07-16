@@ -2,7 +2,7 @@
 - 👀 I’m interested in object-oriented programming, game development, music, and audio software;
 - 🌱 I’m currently learning game development in Unity and Godot;
 - 💞️ I’m looking to collaborate on games and audio software;
-- 📫 How to reach me ...
+- 📫 How to reach me: kylemerckx.com;
 
 <!---
 kylemerckx/kylemerckx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
