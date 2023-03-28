@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylemerckx
-- 👀 I’m interested in object-oriented programming, game development, music, and audio software;
-- 🌱 I’m currently learning full-stack development at Hack Reactor;
+- 👀 I’m interested in full stack development, object-oriented programming, game development, music, and audio software;
+- 🌱 I’m currently seeking employment as a full-stack software engineer;
 - 💞️ I’m looking to collaborate on games and audio software;
 - 📫 How to reach me: kylemerckx.com;
 
